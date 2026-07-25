@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jtwi a Frontend Web Developer based in the UK. 
+- 👋 Hi, I’m @Jtwi a UK based Senior Product Manager, that also ships code.. 
 - 📫 Visit https://www.jtwi.me/ for more information and contact methods.
 
 <!---
